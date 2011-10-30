@@ -1,0 +1,17 @@
+{
+  "author": "Maciej Małecki <maciej.malecki@notimplemented.org>",
+  "name": "rubish",
+  "description": "Very silly module with some useful shorthands inspired by Ruby",
+  "version": "0.0.0",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/mmalecki/node-rubish.git"
+  },
+  "main": "./lib/rubish",
+  "engines": {
+    "node": ">= 0.4"
+  },
+  "dependencies": {},
+  "devDependencies": {}
+}
+
