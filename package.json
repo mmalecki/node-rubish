@@ -2,6 +2,7 @@
   "author": "Maciej Małecki <maciej.malecki@notimplemented.org>",
   "name": "rubish",
   "description": "Very silly module with some useful shorthands inspired by Ruby",
+  "keywords": ["ruby", "shorthand", "functions", "utils"],
   "version": "0.0.0",
   "repository": {
     "type": "git",
